@@ -23,6 +23,8 @@
 
 ## Screenshots or GIF (In case of UI changes):
 
+<!-- Please include screenshots from both desktop and mobile. Appearance on mobile is more important for us. -->
+
 ## Types of changes
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
